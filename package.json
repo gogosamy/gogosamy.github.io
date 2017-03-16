@@ -1,0 +1,25 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "My portfolio",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gogosamy/portfolio.git"
+  },
+  "author": "Wendy Vogt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gogosamy/portfolio/issues"
+  },
+  "homepage": "https://github.com/gogosamy/portfolio#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.0.3",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-imagemin": "^3.1.1"
+  }
+}
